@@ -1,0 +1,7 @@
+encoder_embedding_num: 128
+encoder_hidden_num: 1024
+decoder_embedding_num: 256
+decoder_hidden_num: 1024
+batch_size: 4
+num_epochs: 1
+learning_rate: 0.001
